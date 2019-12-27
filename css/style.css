@@ -420,6 +420,20 @@ footer{
  width: 100px;
  height: 100px;
 }
+.center_image3 {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 200%;
+}
+.center_image4 {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 120%;
+}
 
 .button2 {
   background-color: #035d91; 
